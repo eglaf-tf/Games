@@ -1,6 +1,6 @@
 # Ping Pong Game
 
-A classic Ping Pong game implemented in both C++ and JavaScript. Play the web version live at [https://eglaf-tf.github.io/Games/](https://eglaf-tf.github.io/Games/)!
+A classic Ping Pong game implemented in both C++ and JavaScript. Play the web version live [here]((https://eglaf-tf.github.io/Ping-Pong/))!
 
 ## 🎮 Play Online
 
