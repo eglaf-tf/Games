@@ -2,9 +2,6 @@
 
 A classic Ping Pong game implemented in both C++ and JavaScript. Play the web version live [here](https://eglaf-tf.github.io/Ping-Pong/)!
 
-## 🎮 Play Online
-
-Visit [https://eglaf-tf.github.io/Games/](https://eglaf-tf.github.io/Games/) to play the web version directly in your browser.
 
 ### Controls
 - **Up Arrow**: Move paddle up
